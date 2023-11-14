@@ -17,3 +17,5 @@ $ npm run dev
 ```
 
 **Note:** Unlike create-react-app, we need to run the `dev` command, not `start`. The `start` command is used to run a _production_ server; we'll learn more about that later in the course.
+
+Then go on the correct url depending on your exercise, for example: `http://localhost:3000/exercises/03-interview`
