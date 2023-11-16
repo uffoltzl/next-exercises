@@ -10,3 +10,4 @@ These are the exercise I have made when fulfilling the Joy of React course.
 - SSR exercises
 - Routing exercises
 - Dynamic hit counter
+- Suspense exercises
